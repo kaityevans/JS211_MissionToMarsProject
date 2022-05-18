@@ -33,9 +33,17 @@ class Ship {
   }
 }
 
+class mav {
+  constructor(missionStatement) {
+    this.missionStatement = missionStatement;
+  }
+}
 
-
-
+class hermes {
+  constructor(missionStatement) {
+    this.missionStatement = missionStatement;
+  }
+}
 
 
 // Begin by reading the tests and building a function that will full each one.
